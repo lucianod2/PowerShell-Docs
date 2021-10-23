@@ -142,6 +142,7 @@ Install a version of PowerShell using the `--exact` parameter
 ```powershell
 winget install --name PowerShell --exact --source winget
 winget install --name PowerShell-Preview --exact --source winget
+winget install --name "PowerShell Preview" --exact --source winget
 ```
 
 ## <a id="msstore" />Installing from the Microsoft Store
